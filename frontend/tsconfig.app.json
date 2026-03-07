@@ -17,8 +17,9 @@
     "moduleResolution": "bundler",
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
-
     "jsx": "react-jsx",
+
+    "esModuleInterop": true,
 
     "strict": true,
     "noUnusedLocals": true,
