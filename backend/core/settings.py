@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_yri@-oi$(@rcgt94_zoybnz7evr+^6)nv80ut#*vv6j=!(*sg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['markazpro-backend.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
