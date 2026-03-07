@@ -2,8 +2,8 @@ import { NavLink } from "react-router-dom"
 
 function LoginPage() {
     return (
-        <div>
-            <NavLink to="/dashboard">Login</NavLink>
+        <div className="w-full h-screen flex items-center justify-center">
+            <NavLink to="/dashboard" className="text-2xl font-bold">Login</NavLink>
         </div>
     )
 }

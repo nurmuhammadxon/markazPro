@@ -40,7 +40,7 @@ export const sidebarItems: SidebarItem[] = [
     },
     {
         title: 'Hisobotlar',
-        path: '/report',
+        path: '/reports',
         icon: NotebookPen
     }
 ]
